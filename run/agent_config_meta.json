@@ -1,0 +1,292 @@
+{
+  "keys": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+  "auth_cookie_name": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+  "middleware": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+  "mongoose": {
+    "url": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+    "options": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+    "loadModel": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "security": {
+    "csrf": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+      "useSession": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "onerror": {
+    "all": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+    "errorPageUrl": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-onerror/config/config.default.js"
+  },
+  "multipart": {
+    "fileSize": "/Users/jrucker/Documents/jrucker/bookAdmin/config/config.default.js",
+    "autoFields": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-multipart/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "name": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "version": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "description": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "private": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "async-validator": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "captchapng": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-passport": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-session": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "node-uuid": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "passport-local": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "uuid": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "stop": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "dev": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "debug": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "test": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "cov": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "lint": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "ci": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "autod": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "tsc:w": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "url": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "license": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "strict": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "depth": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "env": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "level": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "logging": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "port": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/egg/config/config.default.js"
+}

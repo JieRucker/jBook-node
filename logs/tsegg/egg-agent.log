@@ -1,0 +1,4 @@
+2018-09-10 00:34:07,521 INFO 12109 [egg:logger] init all loggers with options: {"dir":"/Users/jrucker/Documents/jrucker/bookAdmin/logs/tsegg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tsegg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-09-10 00:34:07,606 INFO 12109 [egg:core] dump config after load, 5ms
+2018-09-10 00:34:07,650 INFO 12109 [egg-watcher:agent] watcher start success
+2018-09-10 00:34:07,671 INFO 12109 [egg:core] dump config after ready, 6ms

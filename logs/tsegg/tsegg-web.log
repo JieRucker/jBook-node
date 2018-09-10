@@ -1,0 +1,8 @@
+2018-09-10 00:41:48,870 WARN 12110 [-/127.0.0.1/-/62ms POST /api/users/create] nodejs.ExpectationFailedError: 账号已存在！
+    at Object.throw (/Users/jrucker/Documents/jrucker/bookAdmin/node_modules/koa/lib/context.js:96:11)
+    at UserService.create (/Users/jrucker/Documents/jrucker/bookAdmin/app/service/users.js:25:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+message: "账号已存在！"
+pid: 12110
+hostname: JRuckerdeMacBook-Pro.local
+
